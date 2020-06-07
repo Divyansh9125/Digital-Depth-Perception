@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${default}",
+                "/usr/include/boost/compatibility/cpp_c_headers",
+                "/usr/include/c++/9",
+                "/usr/include/x86_64-linux-gnu/c++/9",
+                "${workspaceFolder}/C_Implementation"
+            ]
+        }
+    ],
+    "version": 4
+}
